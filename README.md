@@ -53,8 +53,8 @@ Ele deve exibir:
 ## Etapa 6 – Texto explicativo
 * Analise todos os passos realizados e responda:
  * Como os laços aninhados foram utilizados?
-  * R.: 
+  * R.: Os laços aninhados foram utilizados para percorrer as linhas e colunas da matriz. O primeiro for percorre as linhas e o segundo percorre as colunas de cada linha, permitindo calcular os totais.
  * Como foi feito o controle de índices?
-  * R.: 
+  * R.: O controle de índices foi feito pelas variáveis i e j. A variável i representa a linha e j representa a coluna. O valor é acessado usando vendas[i][j].
  * Qual foi o resultado da análise?
-  * R.: 
+  * R.: O total geral das vendas foi de 11.700. O Vendedor 2 foi o melhor vendedor, com um total de 4.200 em vendas. O mês com maior quantidade de vendas foi o Mês 1, com 4.500.
